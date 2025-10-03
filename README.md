@@ -25,3 +25,17 @@ A C++ program implementing line generation techniques using the DDA (Digital Dif
 An interactive menu-driven application with color-coded visual output to demonstrate the difference between:
 1) DDA Line Drawing → simple incremental floating-point method.
 2) Bresenham’s Line Drawing → efficient integer-based method producing smoother results.
+
+### LAB 6 Circle Drawing in C++ Graphics
+
+A C++ program implementing **circle generation techniques** using the **Midpoint Circle Drawing Algorithm** and the **Bresenham’s Circle Drawing Algorithm** to draw circles with a user-defined center and radius using the `graphics.h` library.
+
+1. **Midpoint Circle Drawing Algorithm**  
+   - Uses a decision parameter to choose the next pixel location.  
+   - Exploits **8-way symmetry** for efficiency.  
+
+2. **Bresenham’s Circle Drawing Algorithm**  
+   - Optimized integer-only method.  
+   - Produces the same circle with fewer computations.  
+   - Faster and avoids floating-point operations.  
+
