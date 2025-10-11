@@ -37,5 +37,15 @@ A C++ program implementing **circle generation techniques** using the **Midpoint
 2. **Bresenham’s Circle Drawing Algorithm**  
    - Optimized integer-only method.  
    - Produces the same circle with fewer computations.  
-   - Faster and avoids floating-point operations.  
+   - Faster and avoids floating-point operations.
+
+### LAB 7 Polygon Fill Techniques
+- **a) Scanline Fill Algorithm**
+- **b) Flood Fill Algorithm**
+  - 4-connected
+  - 8-connected
+- **c) Boundary Fill Algorithm**
+
+This lab illustrates the difference between **structured (scanline)** vs **region-based (flood/boundary)** filling techniques in computer graphics.
+
 
