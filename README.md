@@ -48,4 +48,25 @@ A C++ program implementing **circle generation techniques** using the **Midpoint
 
 This lab illustrates the difference between **structured (scanline)** vs **region-based (flood/boundary)** filling techniques in computer graphics.
 
+### EXTRA LAB 1: Virtual 3D Environment Creation in C++
+
+A C++ program to create a virtual 3D environment using OpenGL, GLFW, GLAD, and GLM.  
+The environment demonstrates core computer graphics concepts with:  
+1) **3D Objects** → Geometries like room, cityscape, or natural landscape.  
+2) **Lighting & Shading** → Ambient, diffuse, and specular lighting for realism.  
+3) **Camera Controls** → Navigation, rotation, and zoom to explore the scene.  
+
+Interactive program showcasing realistic object rendering, textures, and user-controlled camera movement.
+
+### EXTRA LAB 2: Virtual Environment with Visual Actors in C++
+
+A C++ program enhancing a virtual 3D environment by adding visual actors (objects, characters, or props) using OpenGL.  
+The lab focuses on:  
+1) **Actor Representation** → 3D geometry, textures, and materials.  
+2) **Placement & Organization** → Logical positioning and spacing within the scene.  
+3) **Scene Interaction** → Camera navigation to explore actor arrangement.  
+
+Interactive simulation demonstrating spatial organization, realistic lighting, and actor rendering.
+
+
 
